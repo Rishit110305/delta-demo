@@ -1,8 +1,8 @@
 # delta-demo
 This is a demo for Git &amp; Github class...
 
-# Teacher
+# Teacher 
 Shradha Khapra 
 
 # Student 
-Rishit 
+Rishit Goswami 
